@@ -51,100 +51,100 @@ Before the list, here are some anecdotes that I've really enjoyed finding:
 
 #### matplotlib
 [matplotlib](http://matplotlib.org)
-Matplotlib is Python's most popular and comprehensive plotting library that is 
+is Python's most popular and comprehensive plotting library that is 
 especially useful in combination with NumPy/SciPy.
 
 [Latexify your matplotlib plots](http://nipunbatra.github.io/2014/08/latexify/)
 
 #### Prettyplotlib
 [Prettyplotlib](http://olgabot.github.io/prettyplotlib/)
-Prettyplotlib is a nice enhancement-library that turns matplotlib's default
+is a nice enhancement-library that turns matplotlib's default
 styles into beautiful, presentation-ready plots based on information design and
 color perception studies.
 
 #### Seaborn
 [Seaborn](https://github.com/mwaskom/seaborn)
-Seaborn is a Python visualization library based on matplotlib. It provides a
+is a Python visualization library based on matplotlib. It provides a
 high-level interface for drawing attractive statistical graphics.
 
 #### Bokeh
 [Bokeh](http://bokeh.pydata.org)
-Bokeh is a plotting library that is focused on aesthetic layouts and
+is a plotting library that is focused on aesthetic layouts and
 interactivity to produce high-quality plots for web browsers.
 
 #### ggplot
 [ggplot](https://github.com/yhat/ggplot)
-ggplot is a port of R's popular ggplot2 library, which brings the alternative 
+is a port of R's popular ggplot2 library, which brings the alternative 
 syntax and unique visualization style to Python.
 
 #### D3js
 [D3js](http://d3js.org/)
-JavaScript library for manipulating documents based on data
+is a JavaScript library for manipulating documents based on data.
 
 #### D3py
 [D3py](https://github.com/mikedewar/d3py)
-D3py is a plotting library to create interactive data visualizations based on D3. 
+is a plotting library to create interactive data visualizations based on D3. 
 
 #### C3.js
 [C3.js](http://c3js.org/)
-c3 is a D3-based reusable chart library that enables deeper integration of
+is a D3-based reusable chart library that enables deeper integration of
 charts into web applications.
 
 #### nvd3
 [nvd3](https://github.com/novus/nvd3)
-A collection of re-usable charts and chart components for d3.js.
+is a collection of re-usable charts and chart components for d3.js.
 
 #### raw
 [raw](https://github.com/densitydesign/raw/)
-An application to create custom vector-based visualizations on top of D3.js.
+raw is an application to create custom vector-based visualizations on top of D3.js.
 
 #### rickshaw
 [rickshaw](https://github.com/shutterstock/rickshaw)
-A library for creating interactive time series graphs based on D3.js.
+is a library for creating interactive time series graphs based on D3.js.
 
 #### Pre3d
 [Pre3d](http://deanm.github.io/pre3d/)
-JavaScript 3d rendering engine
+is a JavaScript 3d rendering engine
 
 #### sigma.js
 [sigma.js](https://github.com/jacomyal/sigma.js)
-An open-source lightweight library to display interactively static and dynamic 
+is an open-source lightweight library to display interactively static and dynamic 
 graphs.
 
 #### arbor.js
 [arbor.js](http://arborjs.org/)
-A library of force-directed layout algorithms plus abstractions for graph 
+is a  library of force-directed layout algorithms plus abstractions for graph 
 organization and refresh handling.
 
 #### circos
 [circos](http://circos.ca/)
-A software package for visualizing data in a circular layout.
+is a software package for visualizing data in a circular layout.
 
 #### gephi
 [gephi](http://gephi.org)
-A visualization and exploration platform for networks with dynamic and 
+is a visualization and exploration platform for networks with dynamic and 
 hierarchical graphs.
 
 #### Raphaël
 [Raphaël](http://raphaeljs.com/)
-A small library that simplifies working with vector graphics on the web.
+is a small library that simplifies working with vector graphics on the web.
 
 #### prefuse
 [prefuse](https://github.com/prefuse/Prefuse)
-Prefuse is a set of software tools for creating rich interactive data 
+is a set of software tools for creating rich interactive data 
 visualizations in the Java programming language.
 
 #### tangle
 [tangle](http://worrydream.com/Tangle/)
-Tangle is a JavaScript library for creating reactive documents.
+is a JavaScript library for creating reactive documents.
 
 #### processing
 [processing](http://processing.org)
-Visual programming language implemented in Java.
+is a visual programming language implemented in Java.
 
 #### processing.js
 [processing.js](http://processingjs.org)
-Processing.js is the sister project of the popular Processing visual programming
+is the sister project of the popular Processing visual programming
 language, designed for the web.
 
 
@@ -152,34 +152,34 @@ language, designed for the web.
 
 #### three.js
 [three.js](http://threejs.org/)
-a lightweight 3D library with a very low level of complexity
+is a lightweight 3D library with a very low level of complexity
 
 ### Mapping
 
 #### kartograph
 [kartograph](http://kartograph.org/)
-Kartograph is a simple and lightweight framework for building interactive map 
+is a simple and lightweight framework for building interactive map 
 applications without Google Maps or any other mapping service. It was created 
 with the needs of designers and data journalists in mind.
 
 #### polymaps
 [polymaps](https://github.com/simplegeo/polymaps)
-A library for making dynamic, interactive maps with image- and vector-based 
+is a library for making dynamic, interactive maps with image- and vector-based 
 tiles.
 
 #### leaflet
 [leaflet](http://leafletjs.com/)
-A lightweight JavaScript library for making tile-based interactive maps for 
+is a lightweight JavaScript library for making tile-based interactive maps for 
 desktop and mobile browsers.
 
 #### cesium
 [cesium](http://cesiumjs.org)
-Cesium is a JavaScript library for creating 3D globes and 2D maps in a web 
+is a JavaScript library for creating 3D globes and 2D maps in a web 
 browser without a plugin.
 
 #### unfolding
 [unfolding](http://unfoldingmaps.org/)
-Unfolding is a library to create interactive maps and geovisualizations in 
+is a library to create interactive maps and geovisualizations in 
 Processing and Java.
 
 
@@ -187,7 +187,7 @@ Processing and Java.
 
 #### IPython
 [IPython](http://ipython.org/notebook.html)
-IPython is an alternative Python command line shell for interactive computing 
+is an alternative Python command line shell for interactive computing 
 with lots of useful enhancements over the "default" Python interpreter.  
 
 The browser-based documents IPython Notebooks are a great environment for 
@@ -197,14 +197,14 @@ via e.g., matplotlib.
 
 #### SciPy
 [SciPy](http://scipy.org)
-SciPy is a considered to be one of the core packages for scientific computing 
+is a considered to be one of the core packages for scientific computing 
 routines. As a useful expansion of the NumPy core functionality, it contains a 
 broad range of functions for linear algebra, interpolation, integration, 
 clustering, and [many more](http://docs.scipy.org/doc/scipy/reference/index.html).
 
 #### NumPy
 [NumPy](http://www.numpy.org)
-NumPy is probably the most fundamental package for efficient scientific 
+is probably the most fundamental package for efficient scientific 
 computing in Python through linear algebra routines. One of NumPy's major 
 strength is that most operations are implemented as C/C++ and FORTRAN code for 
 efficiency. At its core, NumPy works with multi-dimensional array objects that 
@@ -212,29 +212,29 @@ support broadcasting and lead to efficient, vectorized code.
 
 #### Pandas
 [pandas](http://pandas.pydata.org)
-Pandas is a library for operating with table-like structures. It comes with a 
+is a library for operating with table-like structures. It comes with a 
 powerful DataFrame object, which is a multi-dimensional array object for 
 efficient numerical operations similar to NumPy's *ndarray* with additional 
 functionalities.
 
 #### Blaze
 [Blaze](https://github.com/ContinuumIO/blaze)
-Blaze extends the usability of NumPy and Pandas to distributed and out-of-core 
+extends the usability of NumPy and Pandas to distributed and out-of-core 
 computing. Blaze provides an interface similar to that of the NumPy ND-Array or 
 Pandas DataFrame but maps these familiar interfaces onto a variety of other 
 computational engines like Postgres or Spark.
 
 #### Theano
 [Theano](https://github.com/Theano/Theano)
-Optimizing GPU-meta-programming code generating array oriented optimizing math 
-compiler in Python
+is an optimizing GPU-meta-programming code generating array oriented optimizing 
+math compiler in Python
 
 
 ## Math
 
 #### SymPy
 [SymPy](http://www.sympygamma.com)
-SymPy is a Python library for symbolic mathematical computations. It has a broad
+is a Python library for symbolic mathematical computations. It has a broad
 range of features, ranging from calculus, algebra, geometry, discrete 
 mathematics, and even quantum physics. It also includes basic plotting 
 functionality and print functions with LaTeX support.
@@ -244,38 +244,38 @@ functionality and print functions with LaTeX support.
 
 #### Scikit-learn
 [Scikit-learn](http://scikit-learn.org/stable/)
-Scikit-learn is is probably the most popular general machine library for Python.
+is is probably the most popular general machine library for Python.
 It includes a broad range of different classifiers, cross-validation and other 
 model selection methods, dimensionality reduction techniques, modules for 
 regression and clustering analysis, and a useful data-preprocessing module.
 
 #### Shogun
 [Shogun](https://github.com/shogun-toolbox/shogun)
-Shogun is a machine learning library that is focused on large-scale kernel 
+is a machine learning library that is focused on large-scale kernel 
 methods. Its particular strengths are Support Vector Machines (SVMs) and it 
 comes with a range of different SVM implementations.
 
 #### PyBrain
 [PyBrain](http://pybrain.org)
-PyBrain (Python-Based Reinforcement Learning, Artificial Intelligence and 
+(Python-Based Reinforcement Learning, Artificial Intelligence and 
 Neural Network Library) is a machine learning library that uses neural networks
 to focus on supervised learning, reinforcement learning, and evolutionary methods.
 
 #### PyLearn2
 [PyLearn2](https://github.com/lisa-lab/pylearn2)
-PyLearn2 is a machine learning **research** library - a library to study machine
+is a machine learning **research** library - a library to study machine
 learning - focused on deep and convolution neural networks, restricted Boltzman 
 machines, and auto-encoders.
 
 #### PyMC
 [PyMC](https://github.com/pymc-devs/pymc)
-PyMC is a python module for Bayesian statistical modeling and model fitting 
+is a python module for Bayesian statistical modeling and model fitting 
 which focuses on advanced Markov chain Monte Carlo fitting algorithms. Its 
 flexibility and extensibility make it applicable to a large suite of problems.
 
 #### inspyred
 [inspyred](https://github.com/aarongarrett/inspyred)
-inspyred is a free, open source framework for creating biologically-inspired 
+is a free, open source framework for creating biologically-inspired 
 computational intelligence algorithms in Python, including evolutionary 
 computation, swarm intelligence, and immunocomputing. Additionally, inspyred 
 provides easy-to-use canonical versions of many bio-inspired algorithms for 
@@ -285,18 +285,18 @@ users who don't need much customization.
 
 #### statsmodels
 [statsmodels](http://statsmodels.sourceforge.net)
-Statsmodel is a Python libarary that is centered around statistical data
+is a Python library that is centered around statistical data
 analysis mainly through linear models and includes a variety of statistical tests.
 
 #### Patsy
 [Patsy](https://github.com/pydata/patsy)
-Patsy is a Python library for describing statistical models (especially linear
+is a Python library for describing statistical models (especially linear
 models, or models that have a linear component) and building design matrices. 
 Patsy brings the convenience of R "formulas" to Python.
 
 #### kcbo
 [kcbo](https://github.com/HHammond/kcbo)
-A Bayesian testing framework written in Python.
+is a Bayesian testing framework written in Python.
 
 
 ## User Interface
@@ -305,14 +305,14 @@ A Bayesian testing framework written in Python.
 
 #### kivi
 [kivi](http://kivy.org)
-Open source Python library for rapid development of applications that make use
-of innovative user interfaces, such as multi-touch apps.
+is an open source Python library for rapid development of applications that make 
+use of innovative user interfaces, such as multi-touch apps.
 
 ### CLI
 
 #### Click
 [Click](http://click.pocoo.org/3/)
-Click is a Python package for creating beautiful command line interfaces in a 
+is a Python package for creating beautiful command line interfaces in a 
 composable way with as little code as necessary. It’s the “Command Line 
 Interface Creation Kit”. It’s highly configurable but comes with sensible 
 defaults out of the box.
@@ -321,12 +321,12 @@ defaults out of the box.
 
 #### Flask
 [Flask](http://flask.pocoo.org/)
-Flask is a lightweight web application framework written in Python and based on
+is a lightweight web application framework written in Python and based on
 the Werkzeug WSGI toolkit and Jinja2 template engine.
 
 #### ØMQ
 [ØMQ](http://zeromq.org/)
-ØMQ is a high-performance asynchronous messaging library aimed at use in
+is a high-performance asynchronous messaging library aimed at use in
 scalable distributed or concurrent applications. It provides a message queue,
 but unlike message-oriented middleware, a ØMQ system can run without a dedicated
 message broker. The library is designed to have a familiar socket-style API.
@@ -336,7 +336,7 @@ message broker. The library is designed to have a familiar socket-style API.
 
 #### dragline
 [dragline](https://github.com/inzyte/dragline)
-Distributed python web crawling framework
+is a distributed python web crawling framework.
 
 
 ## Profiling
