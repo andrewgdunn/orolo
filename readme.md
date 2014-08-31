@@ -45,6 +45,48 @@ Before the list, here are some anecdotes that I've really enjoyed finding:
 
 # Technologies
 
+## Languages
+
+#### Python
+[Python](https://www.python.org/)
+is a widely used general-purpose, high-level programming language. Its design 
+philosophy emphasizes code readability, and its syntax allows programmers to 
+express concepts in fewer lines of code than would be possible in languages 
+such as C. The language provides constructs intended to enable clear programs 
+on both a small and large scale. The standard library has extensive support for
+complex data structures and I/O through standard formats and protocols. As of 
+January 2014, the Python Package Index, the official repository of third-party 
+software for Python, contains more than 38,000 packages.
+
+#### Julia
+[Julia](http://julialang.org/)
+is a high-level, high-performance dynamic programming language for technical 
+computing, with syntax that is familiar to users of other technical computing 
+environments. It provides a sophisticated compiler, distributed parallel 
+execution, numerical accuracy, and an extensive mathematical function library.
+
+Julia is an ambitious language. It aims to be as fast as C, as easy to use as 
+Python, and as statistically inclined as R (to name a few goals).
+
+[Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
+
+#### R
+[R](http://www.r-project.org/)
+is a free software environment for statistical computing and graphics. The
+language is widely used among statisticians and data miners for developing
+statistical software and data analysis. 
+
+The capabilities of R are extended through user-created packages, which allow 
+specialized statistical techniques, graphical devices (ggplot2), import/export 
+capabilities, reporting tools (knitr, Sweave), etc. These packages are developed
+primarily in R, and sometimes in Java, C and Fortran. A core set of packages is
+included with the installation of R, with more than 5,800 additional packages 
+and 120,000 functions (as of June 2014) available at the Comprehensive R Archive
+Network (CRAN), Bioconductor, and other repositories. 
+
+[10 R packages I wish I knew about earlier](http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html)
+[recommender systems in R](http://blog.yhathq.com/posts/recommender-system-in-r.html)
+
 ## Visualization
 
 ### 2D
@@ -55,6 +97,8 @@ is Python's most popular and comprehensive plotting library that is
 especially useful in combination with NumPy/SciPy.
 
 [Latexify your matplotlib plots](http://nipunbatra.github.io/2014/08/latexify/)
+[Aggregating & plotting time series in Python](http://blog.yhathq.com/posts/aggregating-and-plotting-time-series-in-python.html)
+
 
 #### Prettyplotlib
 [Prettyplotlib](http://olgabot.github.io/prettyplotlib/)
@@ -77,6 +121,8 @@ interactivity to produce high-quality plots for web browsers.
 is a port of R's popular ggplot2 library, which brings the alternative 
 syntax and unique visualization style to Python.
 
+[ggplot for python](http://blog.yhathq.com/posts/ggplot-for-python.html)
+
 #### D3js
 [D3js](http://d3js.org/)
 is a JavaScript library for manipulating documents based on data.
@@ -89,6 +135,10 @@ is a plotting library to create interactive data visualizations based on D3.
 [C3.js](http://c3js.org/)
 is a D3-based reusable chart library that enables deeper integration of
 charts into web applications.
+
+#### chartist.js
+[chartist.js](https://github.com/gionkunz/chartist-js)
+simple responsing charts
 
 #### nvd3
 [nvd3](https://github.com/novus/nvd3)
@@ -154,6 +204,21 @@ language, designed for the web.
 [three.js](http://threejs.org/)
 is a lightweight 3D library with a very low level of complexity
 
+#### VisIt
+[VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/)
+is an Open Source, interactive, scalable, visualization, animation and analysis 
+tool. From Unix, Windows or Mac workstations, users can interactively visualize 
+and analyze data ranging in scale from small (<101 core) desktop-sized projects 
+to large (>105 core) leadership-class computing facility simulation campaigns. 
+Users can quickly generate visualizations, animate them through time, manipulate
+them with a variety of operators and mathematical expressions, and save the 
+resulting images and animations for presentations. VisIt contains a rich set of 
+visualization features to enable users to view a wide variety of data including 
+scalar and vector fields defined on two- and three-dimensional (2D and 3D) 
+structured, adaptive and unstructured meshes. Owing to its customizeable plugin 
+design, VisIt is capabable of visualizing data from over 120 different
+scientific data formats.
+
 ### Mapping
 
 #### kartograph
@@ -217,6 +282,8 @@ powerful DataFrame object, which is a multi-dimensional array object for
 efficient numerical operations similar to NumPy's *ndarray* with additional 
 functionalities.
 
+[Weather forecasting with Twitter and Pandas](http://blog.yhathq.com/posts/predict-weather-with-kaggle-twitter-emoticons-pandas.html)
+
 #### Blaze
 [Blaze](https://github.com/ContinuumIO/blaze)
 extends the usability of NumPy and Pandas to distributed and out-of-core 
@@ -248,6 +315,11 @@ is is probably the most popular general machine library for Python.
 It includes a broad range of different classifiers, cross-validation and other 
 model selection methods, dimensionality reduction techniques, modules for 
 regression and clustering analysis, and a useful data-preprocessing module.
+
+[Predicting Churn with Scikit-Learn](http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html)
+[Random forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
+[Intuitive Classification using KNN and Python](http://blog.yhathq.com/posts/classification-using-knn-and-python.html)
+[Sparse Random Projections](http://blog.yhathq.com/posts/sparse-random-projections.html)
 
 #### Shogun
 [Shogun](https://github.com/shogun-toolbox/shogun)
@@ -288,6 +360,8 @@ users who don't need much customization.
 is a Python library that is centered around statistical data
 analysis mainly through linear models and includes a variety of statistical tests.
 
+[Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
+
 #### Patsy
 [Patsy](https://github.com/pydata/patsy)
 is a Python library for describing statistical models (especially linear
@@ -299,38 +373,14 @@ Patsy brings the convenience of R "formulas" to Python.
 is a Bayesian testing framework written in Python.
 
 
-## User Interface
+## Image Processing
 
-### Graphical
+#### Scikit-image
+[Scikit-image](http://scikit-image.org/)
+is a collection of algorithms for image processing. It is available
+free of charge and free of restriction.
 
-#### kivi
-[kivi](http://kivy.org)
-is an open source Python library for rapid development of applications that make 
-use of innovative user interfaces, such as multi-touch apps.
-
-### CLI
-
-#### Click
-[Click](http://click.pocoo.org/3/)
-is a Python package for creating beautiful command line interfaces in a 
-composable way with as little code as necessary. It’s the “Command Line 
-Interface Creation Kit”. It’s highly configurable but comes with sensible 
-defaults out of the box.
-
-## Networking/Web
-
-#### Flask
-[Flask](http://flask.pocoo.org/)
-is a lightweight web application framework written in Python and based on
-the Werkzeug WSGI toolkit and Jinja2 template engine.
-
-#### ØMQ
-[ØMQ](http://zeromq.org/)
-is a high-performance asynchronous messaging library aimed at use in
-scalable distributed or concurrent applications. It provides a message queue,
-but unlike message-oriented middleware, a ØMQ system can run without a dedicated
-message broker. The library is designed to have a familiar socket-style API.
-
+[Image Processing with Scikit-image](http://blog.yhathq.com/posts/image-processing-with-scikit-image.html)
 
 ## Scraping
 
@@ -349,4 +399,5 @@ Python Dependency Graphs
 
 # References
 [datavisualization.ch](http://selection.datavisualization.ch/)
+
 [Sebastian Raschka](https://github.com/rasbt/pattern_classification)
