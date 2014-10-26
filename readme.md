@@ -123,6 +123,12 @@ syntax and unique visualization style to Python.
 
 [ggplot for python](http://blog.yhathq.com/posts/ggplot-for-python.html)
 
+#### Gizeh
+[gizeh](https://github.com/Zulko/gizeh)
+is a Python library for vector graphics.
+
+[Vector Animations with Python](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
+
 #### D3js
 [D3js](http://d3js.org/)
 is a JavaScript library for manipulating documents based on data.
@@ -247,6 +253,14 @@ browser without a plugin.
 is a library to create interactive maps and geovisualizations in 
 Processing and Java.
 
+### Image Processing
+
+#### Pillow
+[Pillow](https://github.com/python-pillow/Pillow)
+is the "friendly" PIL fork by Alex Clark and Contributors. PIL is the Python
+Imaging Library by Fredrik Lundh and Contributors.
+
+[Little Planet Projection](https://www.richwareham.com/articles/2014/09/29/little-planet-projection)
 
 ## Scientific Computing
 
@@ -320,6 +334,7 @@ regression and clustering analysis, and a useful data-preprocessing module.
 [Random forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
 [Intuitive Classification using KNN and Python](http://blog.yhathq.com/posts/classification-using-knn-and-python.html)
 [Sparse Random Projections](http://blog.yhathq.com/posts/sparse-random-projections.html)
+[Doing Data Science in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
 
 #### Shogun
 [Shogun](https://github.com/shogun-toolbox/shogun)
