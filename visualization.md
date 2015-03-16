@@ -8,8 +8,8 @@ orolo
 is Python's most popular and comprehensive plotting library that is
 especially useful in combination with NumPy/SciPy.
 
-[Latexify your matplotlib plots](http://nipunbatra.github.io/2014/08/latexify/)
-[Aggregating & plotting time series in Python](http://blog.yhathq.com/posts/aggregating-and-plotting-time-series-in-python.html)
+ - [Latexify your matplotlib plots](http://nipunbatra.github.io/2014/08/latexify/)
+ - [Aggregating & plotting time series in Python](http://blog.yhathq.com/posts/aggregating-and-plotting-time-series-in-python.html)
 
 
 ### Prettyplotlib
@@ -33,13 +33,13 @@ interactivity to produce high-quality plots for web browsers.
 is a port of R's popular ggplot2 library, which brings the alternative
 syntax and unique visualization style to Python.
 
-[ggplot for python](http://blog.yhathq.com/posts/ggplot-for-python.html)
+ - [ggplot for python](http://blog.yhathq.com/posts/ggplot-for-python.html)
 
 ### Gizeh
 [gizeh](https://github.com/Zulko/gizeh)
 is a Python library for vector graphics.
 
-[Vector Animations with Python](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
+ - [Vector Animations with Python](http://zulko.github.io/blog/2014/09/20/vector-animations-with-python/)
 
 ### D3js
 [D3js](http://d3js.org/)

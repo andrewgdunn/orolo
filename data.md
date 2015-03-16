@@ -11,6 +11,7 @@ efficient numerical operations similar to NumPy's *ndarray* with additional
 functionalities.
 
 [Weather forecasting with Twitter and Pandas](http://blog.yhathq.com/posts/predict-weather-with-kaggle-twitter-emoticons-pandas.html)
+
 [Things in Pandas I wish I'd known](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
 
 ### Blaze
@@ -20,4 +21,13 @@ computing. Blaze provides an interface similar to that of the NumPy ND-Array or
 Pandas DataFrame but maps these familiar interfaces onto a variety of other
 computational engines like Postgres or Spark.
 
+[Towards Out-of-Core DataFrames](http://matthewrocklin.com/blog/work/2015/03/11/Towards-OOC-Frame/)
+
 ## Scraping
+
+### scrapy
+[scrapy](http://scrapy.org/)
+
+### dragline
+[dragline](https://github.com/inzyte/dragline)
+is a distributed python web crawling framework.

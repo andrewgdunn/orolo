@@ -27,23 +27,6 @@ strength is that most operations are implemented as C/C++ and FORTRAN code for
 efficiency. At its core, NumPy works with multi-dimensional array objects that
 support broadcasting and lead to efficient, vectorized code.
 
-### Pandas
-[pandas](http://pandas.pydata.org)
-is a library for operating with table-like structures. It comes with a
-powerful DataFrame object, which is a multi-dimensional array object for
-efficient numerical operations similar to NumPy's *ndarray* with additional
-functionalities.
-
-[Weather forecasting with Twitter and Pandas](http://blog.yhathq.com/posts/predict-weather-with-kaggle-twitter-emoticons-pandas.html)
-[Things in Pandas I wish I'd known](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb)
-
-### Blaze
-[Blaze](https://github.com/ContinuumIO/blaze)
-extends the usability of NumPy and Pandas to distributed and out-of-core
-computing. Blaze provides an interface similar to that of the NumPy ND-Array or
-Pandas DataFrame but maps these familiar interfaces onto a variety of other
-computational engines like Postgres or Spark.
-
 ### Theano
 [Theano](https://github.com/Theano/Theano)
 is an optimizing GPU-meta-programming code generating array oriented optimizing
@@ -66,7 +49,7 @@ functionality and print functions with LaTeX support.
 is a Python library that is centered around statistical data
 analysis mainly through linear models and includes a variety of statistical tests.
 
-[Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
+ - [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
 
 ### Patsy
 [Patsy](https://github.com/pydata/patsy)
@@ -77,19 +60,3 @@ Patsy brings the convenience of R "formulas" to Python.
 ### kcbo
 [kcbo](https://github.com/HHammond/kcbo)
 is a Bayesian testing framework written in Python.
-
-## Image Processing
-
-### Pillow
-[Pillow](https://github.com/python-pillow/Pillow)
-is the "friendly" PIL fork by Alex Clark and Contributors. PIL is the Python
-Imaging Library by Fredrik Lundh and Contributors.
-
-[Little Planet Projection](https://www.richwareham.com/articles/2014/09/29/little-planet-projection)
-
-### Scikit-image
-[Scikit-image](http://scikit-image.org/)
-is a collection of algorithms for image processing. It is available
-free of charge and free of restriction.
-
-[Image Processing with Scikit-image](http://blog.yhathq.com/posts/image-processing-with-scikit-image.html)

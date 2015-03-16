@@ -1,6 +1,10 @@
 orolo
 =====
 
+## Comprehensive Tutorials
+
+[Sebastian Raschka](https://github.com/rasbt/pattern_classification)
+
 ## Machine Learning / Optimization
 
 ### Scikit-learn
@@ -11,9 +15,13 @@ model selection methods, dimensionality reduction techniques, modules for
 regression and clustering analysis, and a useful data-preprocessing module.
 
 [Predicting Churn with Scikit-Learn](http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html)
+
 [Random forests in Python](http://blog.yhathq.com/posts/random-forests-in-python.html)
+
 [Intuitive Classification using KNN and Python](http://blog.yhathq.com/posts/classification-using-knn-and-python.html)
+
 [Sparse Random Projections](http://blog.yhathq.com/posts/sparse-random-projections.html)
+
 [Doing Data Science in Python](http://blog.yhathq.com/posts/data-science-in-python-tutorial.html)
 
 ### Shogun

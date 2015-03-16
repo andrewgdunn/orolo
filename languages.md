@@ -14,6 +14,11 @@ complex data structures and I/O through standard formats and protocols. As of
 January 2014, the Python Package Index, the official repository of third-party
 software for Python, contains more than 38,000 packages.
 
+ - [Function Decorators](http://intermediatepythonista.com/the-function-ii-function-decorators)
+ - [Classes and Objects](http://intermediatepythonista.com/classes-and-objects)
+ - [Classes and Objects, Descriptors](http://intermediatepythonista.com/classes-and-objects-ii-descriptors)
+ - [Comprehensions](http://intermediatepythonista.com/python-comprehensions)
+
 ### Julia
 [Julia](http://julialang.org/)
 is a high-level, high-performance dynamic programming language for technical
@@ -24,7 +29,7 @@ execution, numerical accuracy, and an extensive mathematical function library.
 Julia is an ambitious language. It aims to be as fast as C, as easy to use as
 Python, and as statistically inclined as R (to name a few goals).
 
-[Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
+ - [Neural networks and a dive into Julia](http://blog.yhathq.com/posts/julia-neural-networks.html)
 
 ### R
 [R](http://www.r-project.org/)
@@ -41,6 +46,7 @@ and 120,000 functions (as of June 2014) available at the Comprehensive R Archive
 Network (CRAN), Bioconductor, and other repositories.
 
 [10 R packages I wish I knew about earlier](http://blog.yhathq.com/posts/10-R-packages-I-wish-I-knew-about-earlier.html)
+
 [recommender systems in R](http://blog.yhathq.com/posts/recommender-system-in-r.html)
 
 

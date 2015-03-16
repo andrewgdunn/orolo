@@ -1,7 +1,5 @@
-typesetting
+orolo -- typesetting
 ===========
-
-
 
 # Templates
 

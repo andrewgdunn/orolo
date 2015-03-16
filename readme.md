@@ -11,6 +11,13 @@ artifacts depicting their use. There are so many wonderful technologies and
 techniques being created, I typically won't have direct use for them but will
 want to remember for a future avocation.
 
+The name choice is a reference to being 'thrown back' for the use of forbidden
+technology. In many workplaces one doesn't usually have the choice of technology
+for a given task. When there are these imposed limitations it is likely that one
+would fall significantly short of the task potential. My hope is to catalog both
+technologies and associated praxis so that I, and maybe others, have a quick
+references when taking on a new task.
+
 I don't make a distinction about laguage or operating environment, however this
 list will be generally biased towards python, r, and javascript.
 
