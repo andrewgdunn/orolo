@@ -160,6 +160,15 @@ structured, adaptive and unstructured meshes. Owing to its customizeable plugin
 design, VisIt is capabable of visualizing data from over 120 different
 scientific data formats.
 
+### Gource
+[Gource](https://code.google.com/p/gource/)
+Software projects are displayed by Gource as an animated tree with the root
+directory of the project at its centre. Directories appear as branches with
+files as leaves. Developers can be seen working on the tree at the times they
+contributed to the project.
+
+ - [Monitoring pf Logs with Gource](http://www.echothrust.com/blogs/monitoring-pf-logs-gource)
+
 ## Visualization Mapping
 
 ### kartograph
