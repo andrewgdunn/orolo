@@ -6,10 +6,10 @@ eminent cosmographer and Erasmas's mentor at the concent, but he's later
 thrown back for using forbidden technology to observe the Geometers in violation
 of the Discipline's isolation requirements. - [Anathem](http://en.wikipedia.org/wiki/Anathem)
 
-This repository is a collection of technologies, techniques and associated
-artifacts depicting their use. There are so many wonderful technologies and
-techniques being created, I typically won't have direct use for them but will
-want to remember for a future avocation.
+This repository is an an attempt at responding to my natural desire to collect
+information on new praxis and technology. There are a plethora of wonderful
+artifacts and projects being shared with society, in this collection of files I
+attempt to come up with a nomenclature to remember them.
 
 The name choice is a reference to being 'thrown back' for the use of forbidden
 technology. In many workplaces one doesn't usually have the choice of technology
@@ -18,8 +18,9 @@ would fall significantly short of the task potential. My hope is to catalog both
 technologies and associated praxis so that I, and maybe others, have a quick
 references when taking on a new task.
 
-I don't make a distinction about laguage or operating environment, however this
-list will be generally biased towards python, r, and javascript.
+It's important to catalog both the praxis and technology, many times one will
+stumble into a tool-set because they are scratching the surface of applying new
+praxis.
 
 Before the list, here are some anecdotes that I've really enjoyed finding:
 

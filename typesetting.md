@@ -1,12 +1,16 @@
 orolo -- typesetting
-===========
+====================
 
-# Templates
+# Praxis
 
-## Article
+ - [Stylistic Resume Formatting](http://practicaltypography.com/resumes.html)
 
-### Arsclassica
-[arsclassica](http://www.latextemplates.com/template/arsclassica-article)
+
+# Technology
+
+## Templates
+
+ - [arsclassica](http://www.latextemplates.com/template/arsclassica-article)
 
 ## CV
 
@@ -22,7 +26,7 @@ The mtheme is a Beamer theme with minimal visual.
 ### Beamer Tanedo
 [tanedo](http://www.physics.uci.edu/~tanedo/talks.html)
 
-# Graphics
+## Graphics
 
 https://github.com/nschloe/matplotlib2tikz
 

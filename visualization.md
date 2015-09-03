@@ -1,6 +1,12 @@
 orolo
 =====
 
+# Praxis
+
+ - [datavisualization.ch](http://selection.datavisualization.ch/)
+
+# Technology
+
 ## Visualization 2D
 
 ### matplotlib
@@ -11,6 +17,13 @@ especially useful in combination with NumPy/SciPy.
  - [Latexify your matplotlib plots](http://nipunbatra.github.io/2014/08/latexify/)
  - [Aggregating & plotting time series in Python](http://blog.yhathq.com/posts/aggregating-and-plotting-time-series-in-python.html)
 
+### mpld3
+[mpld3](https://mpld3.github.io/index.html)
+brings together Matplotlib, the popular Python-based graphing library,
+and D3js, the popular Javascript library for creating interactive data
+visualizations for the web. The result is a simple API for exporting your
+matplotlib graphics to HTML code which can be used within the browser, within
+standard web pages, blogs, or tools such as the IPython notebook.
 
 ### Prettyplotlib
 [Prettyplotlib](http://olgabot.github.io/prettyplotlib/)

@@ -1,6 +1,10 @@
 orolo -- networking
 ===================
 
+# Praxis
+
+# Technology
+
 ## ZeroMQ
 [ZerMQ](http://zeromq.org/)
 is a high-performance asynchronous messaging library aimed at use in scalable
