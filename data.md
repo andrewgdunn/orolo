@@ -57,3 +57,17 @@ built for detecting erroneous tuples in the dataset based on given set of
 conditional functional dependencies (CFDs) and building a classification model
 to predict erroneous tuples such that the "cleaned" dataset satisfies the CFDs,
 and semantically correct.
+
+## cubes
+[cubes](http://cubes.databrewery.org/)
+Light-weight Python framework and OLAP HTTP server for easy development of reporting applications and aggregate browsing of multi-dimensionally modeled data.
+
+## mondrian
+[mondrian](http://community.pentaho.com/projects/mondrian/)
+Online Analytical Processing server (OLAP). Allows business users to analyze large and complex amounts of 
+data in real-time.
+
+## nifi
+[nifi](https://nifi.apache.org/)
+Apache nifi supports powerful and scalable directed graphs of data routing, transformation, and system 
+mediation logic.
