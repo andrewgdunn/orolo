@@ -61,10 +61,9 @@ and semantically correct.
 ## Analysis
 
 ### cubes
-[cubes](http://cubes.databrewery.org/)
-Light-weight Python framework and OLAP HTTP server for easy development of reporting applications and aggregate browsing of multi-dimensionally modeled data.
+[cubes](http://cubes.databrewery.org/) is a light-weight Python 
+framework and OLAP HTTP server for easy development of reporting applications and aggregate browsing of multi-dimensionally modeled data.
 
 ### mondrian
-[mondrian](http://community.pentaho.com/projects/mondrian/)
-Online Analytical Processing server (OLAP). Allows business users to analyze large and complex amounts of 
-data in real-time.
+[mondrian](http://community.pentaho.com/projects/mondrian/) 
+is an online Analytical Processing server (OLAP). Allows business users to analyze large and complex amounts of data in real-time.

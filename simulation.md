@@ -17,6 +17,4 @@ simulated and real communication).
 
 ## nifi
 [nifi](https://nifi.apache.org/)
-Apache nifi supports powerful and scalable directed graphs of data 
-routing, transformation, and system 
-mediation logic.
+supports powerful and scalable directed graphs of data routing, transformation, and system mediation logic.
