@@ -14,3 +14,9 @@ is a process-based discrete-event simulation framework based on standard Python.
 Its event dispatcher is based on Python’s generators and can also be used for
 asynchronous networking or to implement multi-agent systems (with both,
 simulated and real communication).
+
+## nifi
+[nifi](https://nifi.apache.org/)
+Apache nifi supports powerful and scalable directed graphs of data 
+routing, transformation, and system 
+mediation logic.
