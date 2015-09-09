@@ -58,6 +58,8 @@ conditional functional dependencies (CFDs) and building a classification model
 to predict erroneous tuples such that the "cleaned" dataset satisfies the CFDs,
 and semantically correct.
 
+### Analysis
+
 ## cubes
 [cubes](http://cubes.databrewery.org/)
 Light-weight Python framework and OLAP HTTP server for easy development of reporting applications and aggregate browsing of multi-dimensionally modeled data.
